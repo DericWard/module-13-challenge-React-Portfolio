@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom"; // Import the Link component
+// import { Link } from "react-router-dom"; // Import the Link component
 import projectData from "../../projects.json";
 import ProjectCard from "../../components/projectcard/ProjectCard";
 import "./Projects.css";
@@ -9,7 +9,7 @@ function Projects() {
     <>
       <div className="projects">
         {projectData.map((project) => (
-          <Link to={`/project/${project.id}`} key={project.id}>
+          // <Link to={`/project/${project.id}`} key={project.id}>
             
             <ProjectCard
               id={project.id}
@@ -18,7 +18,7 @@ function Projects() {
               deployedApp={project.deployedApp}
               gitHub={project.gitHub}
             />
-          </Link>
+          // </Link>
         ))}
       </div>
     </>

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom"; // Import the Link component
 import "./ProjectCard.css";
 
 function ProjectCard(props) {
@@ -6,7 +7,10 @@ function ProjectCard(props) {
     <>
     <div className="card">
       <div className="img-container">
+      <Link to={`/project/${props.id}`}>
         <img alt={props.name} src={props.image} />
+      </Link>
+
       </div>
 
       <div className="content">
