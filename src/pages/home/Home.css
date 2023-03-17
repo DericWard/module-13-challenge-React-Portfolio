@@ -1,0 +1,18 @@
+img {
+    width:50vh;
+    align-items: center;
+    padding-top: 3vh;
+}
+.tagLine {
+    padding: 25px;
+    font-style: italic;
+    font-size: 20px;
+    padding-top: 6vh;
+    padding-bottom: 21vh;
+}
+@media only screen and (max-width: 767px) {
+    .tagLine {
+        padding: 25px;
+        font-size: 20px;
+    }
+}

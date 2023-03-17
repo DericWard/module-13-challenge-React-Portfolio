@@ -1,0 +1,37 @@
+body {
+    position: relative;
+    /* min-height: 95vh; */
+    /* padding-bottom: 200px;  */
+  }
+.Footer {
+    display: flex;
+    flex-direction: column;
+    /* padding-top: 1000px; */
+    /* padding-bottom: 0.1%; */
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 10;
+    width: 100%;
+    left: 0;
+}
+.social-icons {
+    display: flex;
+    justify-content: center;
+    padding-top: 1vh;
+}
+.social-icons a {
+    font-size: 32px;
+    padding: 12px;
+}
+@media only screen and (max-width: 767px) {
+    .Footer {
+        position: static;
+    }
+    .social-icons {
+        padding-top: 4vh;
+    }
+    .social-icons a {
+        margin: 0 5px;
+    }
+}
