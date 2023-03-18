@@ -1,8 +1,14 @@
 img {
     width: 40vh;
 }
+.linkDiv{
+  padding-bottom: 2vh;
+}
+.linkDiv2{
+  padding-bottom: 20vh;
+}
 @media only screen and (max-width: 768px) {
     .linkDiv {
-        margin-bottom: 30px;
-  }
+        margin-bottom: 0vh;
+    }
 }

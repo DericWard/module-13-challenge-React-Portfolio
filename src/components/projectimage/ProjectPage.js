@@ -18,7 +18,7 @@ function Project() {
         </a>
         </div>
 
-        <div className="linkDiv">
+        <div className="linkDiv linkDiv2">
         <a href={project.gitHub} className="link" target="_blank" rel="noreferrer">
           GitHub Repository
         </a>
