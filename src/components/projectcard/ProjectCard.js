@@ -16,7 +16,6 @@ function ProjectCard(props) {
       <div className="content">
         <ul>
           <li>
-            {/* <strong>Title:</strong> {props.name} */}
             <strong>Title:</strong> <a href={`/project/${props.id}`}>{props.name}</a>
           </li>
           <li>
