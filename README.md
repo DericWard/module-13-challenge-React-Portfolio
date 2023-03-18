@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/50495939/226081259-6f4e7099-d17c-4d10-be5c-458a2207d27b.png)
 ![image](https://user-images.githubusercontent.com/50495939/226087877-3f49a2ca-b9a4-4e63-bea1-2fc4bfa756dd.png)
 ![image](https://user-images.githubusercontent.com/50495939/226087914-0a57ab62-5978-4959-b341-28035c1977ee.png)
-![image](https://user-images.githubusercontent.com/50495939/226081339-c42e79eb-ea42-4e12-b871-0f432f5a5960.png)
+![image](https://user-images.githubusercontent.com/50495939/226087964-d692e99b-89dd-4d97-8453-b26ce61884f3.png)
 ### Mobile View Screenshot - Projects Page:
 ![image](https://user-images.githubusercontent.com/50495939/226081448-fb498797-2610-451a-8d59-f1a7794e1129.png)
 
