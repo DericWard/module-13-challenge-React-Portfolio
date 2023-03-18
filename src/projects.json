@@ -2,42 +2,42 @@
   {
     "id": 1,
     "name": "CLI Team Structure Generator",
-    "image": "https://user-images.githubusercontent.com/50495939/223239605-e1d1da3a-b9cc-45c1-9cec-fae120088a61.PNG",
+    "image": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
     "deployedApp": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator",
     "gitHub": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator"
   },
   {
     "id": 2,
     "name": "CLI README Generator",
-    "image": "https://github.com/DericWard/module-11-challenge-Professional-README-Generator/blob/main/assets/images/screenshot-smaller.PNG?raw=true",
+    "image": "https://github.com/DericWard/module-11-challenge-Professional-README-Generator/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
     "deployedApp": "https://github.com/DericWard/module-11-challenge-Professional-README-Generator",
     "gitHub": "https://github.com/DericWard/module-11-challenge-Professional-README-Generator"
   },
   {
     "id": 3,
-    "name": "Work Day Scheduler",
-    "image": "https://user-images.githubusercontent.com/50495939/221415319-f63294bc-9241-41ce-b79c-cf774494cd3f.png",
+    "name": "Daily Planner",
+    "image": "https://github.com/DericWard/module-7-challenge-Daily-Planner/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
     "deployedApp": "https://dericward.github.io/module-7-challenge-Daily-Planner/",
     "gitHub": "https://github.com/DericWard/module-7-challenge-Daily-Planner"
   },
   {
     "id": 4,
     "name": "Weather Dashboard",
-    "image": "https://user-images.githubusercontent.com/50495939/220483937-237101df-cfb5-47cc-b462-6428f57c5892.PNG",
+    "image": "https://github.com/DericWard/module-8-challenge-weather-app/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
     "deployedApp": "https://dericward.github.io/module-8-challenge-weather-app/",
     "gitHub": "https://github.com/DericWard/module-8-challenge-weather-app"
   },
   {
     "id": 5,
     "name": "Password Generator",
-    "image": "https://user-images.githubusercontent.com/50495939/212893728-c6ec94b5-0d1b-40e8-b620-7a97df03f89a.PNG",
+    "image": "https://github.com/DericWard/Module-5-Challenge-Password-Generator/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
     "deployedApp": "https://dericward.github.io/Module-5-Challenge-Password-Generator/",
     "gitHub": "https://github.com/DericWard/Module-5-Challenge-Password-Generator"
   },
   {
     "id": 6,
     "name": "Earlier Portfolio",
-    "image": "https://user-images.githubusercontent.com/50495939/210184375-16342420-27e7-4d0e-85a9-c52375e54cc5.png",
+    "image": "https://github.com/DericWard/module-3-challenge-Portfolio/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
     "deployedApp": "https://dericward.github.io/module-3-challenge-Portfolio/",
     "gitHub": "https://github.com/DericWard/module-3-challenge-Portfolio"
   }
