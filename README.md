@@ -10,6 +10,7 @@
 #### All the links work.
 #### That you can contact me via the footer links, including sending me an email.
 #### That you can email me from the Contact page's form, which should automatically pre-fill the email for you once you've typed your details and message into the form. #### You should be able to view a project page for each project simply by clicking on a particular project's image, in the Projects (gallery) page.
+#### You should be able to view or download my resume by clicking of the PDF icon in the footer, there is a hover tool-tip stating that it is a resume.
 ### Screenshots:
 ![image](https://user-images.githubusercontent.com/50495939/226081259-6f4e7099-d17c-4d10-be5c-458a2207d27b.png)
 ![image](https://user-images.githubusercontent.com/50495939/226087877-3f49a2ca-b9a4-4e63-bea1-2fc4bfa756dd.png)
