@@ -1,17 +1,7 @@
 img {
-    /* width: 90vh; */
-    border-radius: 0px;
-    max-height: 50vh;
-}
-.linkDiv {
-    margin-top: 2vh;
-    margin-bottom: 40px;
+    width: 40vh;
 }
 @media only screen and (max-width: 768px) {
-    img {
-      width: 60vh;
-      margin: 1rem 0;
-    }
     .linkDiv {
         margin-bottom: 30px;
   }
