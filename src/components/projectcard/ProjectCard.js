@@ -16,7 +16,7 @@ function ProjectCard(props) {
       <div className="content">
         <ul>
           <li>
-            <strong>Title:</strong> <a href={`/project/${props.id}`}>{props.name}</a>
+            <strong>Title:</strong> {props.name}
           </li>
           <li>
             <strong>Live:</strong> <a href={props.deployedApp} target="_blank" rel="noreferrer">Live link - unless a CLI tool</a>

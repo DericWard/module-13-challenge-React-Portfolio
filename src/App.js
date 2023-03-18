@@ -4,7 +4,7 @@ import Footer from './components/footer/Footer';
 import Home from "./pages/home/Home";
 import Projects from "./pages/projects/Projects";
 import ContactForm from "./components/contactform/ContactForm";
-import ProjectImage from "./components/projectimage/ProjectPage"; // Import the new component
+import ProjectImage from "./components/projectpage/ProjectPage"; // Import the new component
 
 import "./assets/styles/App.css";
 import "./assets/styles/Header.css";
