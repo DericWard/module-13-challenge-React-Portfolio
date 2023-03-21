@@ -15,10 +15,10 @@ function ProjectCard(props) {
       <div className="content">
         <ul>
           <li>
-            <strong>Title:</strong> {props.name}
+            <strong>Project:</strong> {props.name}
           </li>
           <li>
-            <strong>Live:</strong> <a href={props.deployedApp} target="_blank" rel="noreferrer">Live link - unless a CLI tool</a>
+            <strong>Live:</strong> <a href={props.deployedApp} target="_blank" rel="noreferrer">Deployed app</a>
           </li>
           <li>
             <strong>GitHub:</strong> <a href={props.gitHub} target="_blank" rel="noreferrer">GitHub for this app</a>
