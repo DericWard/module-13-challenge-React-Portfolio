@@ -13,9 +13,13 @@
 #### You should be able to view a project page for each project simply by clicking on a particular project's image, in the Projects (gallery) page.
 #### You should be able to view or download my resume by clicking on the PDF icon in the footer, there is a hover tool-tip stating that it is a resume.
 ### Screenshots:
+#### Homepage:
 ![image](https://user-images.githubusercontent.com/50495939/226081259-6f4e7099-d17c-4d10-be5c-458a2207d27b.png)
+#### Projects gallery:
 ![image](https://user-images.githubusercontent.com/50495939/226087877-3f49a2ca-b9a4-4e63-bea1-2fc4bfa756dd.png)
+#### Single project:
 ![image](https://user-images.githubusercontent.com/50495939/226087914-0a57ab62-5978-4959-b341-28035c1977ee.png)
+#### email Contact form:
 ![image](https://user-images.githubusercontent.com/50495939/226087964-d692e99b-89dd-4d97-8453-b26ce61884f3.png)
 ### Mobile View Screenshot - Projects Page:
 ![image](https://user-images.githubusercontent.com/50495939/226081448-fb498797-2610-451a-8d59-f1a7794e1129.png)
