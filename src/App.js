@@ -1,10 +1,12 @@
 import React from "react";
-import { BrowserRouter, Routes, Route, NavLink } from "react-router-dom";
-import Footer from './components/footer/Footer';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import Home from "./pages/home/Home";
 import Projects from "./pages/projects/Projects";
-import ContactForm from "./components/contactform/ContactForm";
+
 import ProjectImage from "./components/projectpage/ProjectPage"; // Import the new component
+
+import{ ContactForm, Footer, Header} from './components'
 
 import "./assets/styles/App.css";
 import "./assets/styles/Header.css";
@@ -14,16 +16,8 @@ function App() {
     <BrowserRouter>
       <main>
         <div className="Header">
-          <header>
-            <h2 className="personName">Deric Ward</h2>
-            <h3 className="portfolioName">Portfolio</h3>
-            <nav>
-              <NavLink to="/">Home</NavLink>
-              <NavLink to="/projects">Projects</NavLink>
-              <NavLink to="/contactForm">Contact</NavLink>
-            </nav>
-          </header>
-
+          <Header />
+            
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/projects" element={<Projects />} />

@@ -8,7 +8,7 @@ img {
     font-style: italic;
     font-size: 20px;
     padding-top: 6vh;
-    padding-bottom: 25vh;
+    padding-bottom: 12vh;
 }
 @media only screen and (max-width: 767px) {
     .tagLine {

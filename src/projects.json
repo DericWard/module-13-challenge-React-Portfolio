@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "CLI Team Structure Generator",
-    "image": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
-    "deployedApp": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator",
-    "gitHub": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator"
+    "name": "Earlier Portfolio",
+    "image": "https://github.com/DericWard/module-3-challenge-Portfolio/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
+    "deployedApp": "https://dericward.github.io/module-3-challenge-Portfolio/",
+    "gitHub": "https://github.com/DericWard/module-3-challenge-Portfolio"
   },
   {
     "id": 2,
@@ -36,9 +36,9 @@
   },
   {
     "id": 6,
-    "name": "Earlier Portfolio",
-    "image": "https://github.com/DericWard/module-3-challenge-Portfolio/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
-    "deployedApp": "https://dericward.github.io/module-3-challenge-Portfolio/",
-    "gitHub": "https://github.com/DericWard/module-3-challenge-Portfolio"
+    "name": "CLI Team Generator",
+    "image": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
+    "deployedApp": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator",
+    "gitHub": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator"
   }
 ]

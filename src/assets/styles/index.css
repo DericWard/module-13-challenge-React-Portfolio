@@ -19,7 +19,6 @@ body {
 * {
   color: darkgray;
   margin: 0;
-
 }
 p {
   margin: 20px 0;
@@ -47,7 +46,7 @@ header nav a {
 header nav a.active {
     background: var(--primary);
 }
-.Footer {
+/* .Footer {
     margin-top: auto;
     padding-top: 2vh;
-}
+} */

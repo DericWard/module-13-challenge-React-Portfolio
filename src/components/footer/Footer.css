@@ -3,19 +3,7 @@ body {
     /* min-height: 95vh; */
     /* padding-bottom: 200px;  */
   }
-.Footer {
-    display: flex;
-    flex-direction: column;
-    /* padding-top: 1000px; */
-    /* padding-bottom: 0.1%; */
-    align-items: center;
-    justify-content: center;
-    position: absolute;
-    bottom: 10;
-    width: 100%;
-    left: 0;
-}
-.social-icons {
+ .social-icons {
     display: flex;
     justify-content: center;
     padding-top: 1vh;
