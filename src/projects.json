@@ -38,6 +38,7 @@
     "id": 6,
     "name": "CLI Team Generator",
     "image": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator/blob/main/assets/images/screenshot-for-portfolio.PNG?raw=true",
+    "deployedApp": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator",
     "gitHub": "https://github.com/DericWard/module-12-challenge-Team-Profile-Generator"
   }
 ]
